@@ -1,0 +1,26 @@
+newmtl Model001_Material001
+map_Kd DARKKID_HEAD_C.tga
+map_bump DARKKID_HEAD_N.tga
+
+newmtl Model001_Material002
+map_Kd EyeIrisBaseColor_Bleu.tga
+
+newmtl Model001_Material003
+map_Kd EYES_ElementsGlassesRefrac_Bleu.tga
+
+newmtl Model001_Material004
+map_Kd BASE_MOUTH_C.tga
+map_bump BASE_MOUTH_N.tga
+
+newmtl Model001_Material005
+map_Kd DARK_HAIR_ALBEDO.tga
+map_bump HERO_HAIR_N.tga
+
+newmtl Model001_Material006
+map_Kd HERO_ARM_C.tga
+map_bump MALE_ARM_N.tga
+
+newmtl Model001_Material007
+map_Kd DARKKID_CLOTHES_C.tga
+map_bump DARKKID_CLOTHES_N.tga
+
